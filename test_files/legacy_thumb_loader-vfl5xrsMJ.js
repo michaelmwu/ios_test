@@ -73,7 +73,6 @@ define(['jquery', 'modules/clean/photos/batch_thumb_loader', 'modules/clean/spri
       return (_ref = this.instance) != null ? _ref.clear() : void 0;
     }
   };
-  window.LegacyBatchThumbLoader = LegacyBatchThumbLoader;
   return LegacyBatchThumbLoader;
 });
 
